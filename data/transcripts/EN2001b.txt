@@ -1,0 +1,5 @@
+Chair: Today we need to finalize the speaker assignments.
+Engineer: I'll take the technical walkthrough in the second half.
+Designer: I can support with visuals and live demos.
+Scribe: I'll capture action items and open questions.
+Chair: Great, please coordinate rehearsal times afterwards.

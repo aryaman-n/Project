@@ -1,0 +1,5 @@
+Chair: Our agenda covers budget, staffing, and communication plans.
+Engineer: The hardware quote increased due to supplier changes.
+Designer: We may need to simplify the feature set to stay on budget.
+Scribe: Recording these trade-offs so we can brief the sponsors.
+Chair: Let's evaluate alternatives and prepare a recommendation.

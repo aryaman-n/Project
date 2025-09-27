@@ -1,0 +1,5 @@
+Chair: Let's dedicate this session to preparing the client demo.
+Designer: I've staged the screens in the order we'll present them.
+Engineer: I'll run through the data pipeline to show end-to-end flow.
+Scribe: Capturing timing cues so we stay within the allotted slot.
+Chair: Remember to emphasize how feedback has been incorporated.

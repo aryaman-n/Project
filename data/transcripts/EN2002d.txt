@@ -1,0 +1,5 @@
+Chair: Final meeting before handoff, let's close outstanding items.
+Engineer: Testing is green after rerunning the regression suite.
+Designer: The latest content deck reflects all requested edits.
+Scribe: Action log shows only one follow-up on training materials.
+Chair: Assign that to the enablement lead and confirm completion.

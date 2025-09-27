@@ -1,0 +1,5 @@
+Chair: We'll start with updates from the technical sub-team.
+Engineer: Firmware testing uncovered two blocking defects.
+Designer: The interface mock-ups were well received in the pilot.
+Scribe: Action items noted for defect fixes and usability tweaks.
+Chair: Keep stakeholders informed as we resolve these items.

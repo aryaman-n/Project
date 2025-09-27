@@ -1,0 +1,5 @@
+Chair: Let's revisit the risks identified in the last session.
+Engineer: Supply delays remain our biggest concern right now.
+Designer: We could adjust the rollout to prioritize the core modules.
+Scribe: I'll flag that as a proposed mitigation in the notes.
+Chair: Please quantify the impact for the next checkpoint report.
